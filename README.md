@@ -165,14 +165,8 @@ Workflows were tested in Fastn's live V8 sandbox with 100% test case pass rates:
 
 ---
 
-## 19. Demo Instructions (2 Minutes)
-1. **Introduction (0:00 - 0:20):** Explain notification fatigue.
-2. **Fastn Setup (0:20 - 0:45):** Show the Fastn widget and Slack connected.
-3. **Live Trigger (0:45 - 1:15):** Trigger "Send test notification" in Shopify Admin.
-4. **Alert Arrival (1:15 - 1:35):** Show the formatted alert pop up in Slack with order total and line items.
-5. **Deduplication Proof (1:35 - 1:50):** Trigger it again and show the Fastn execution log blocking the duplicate.
-6. **Wrap Up (1:50 - 2:00):** Highlight Fastn MCP tooling and multi-tenant capabilities.
-
+## 19. Demo
+Link: https://drive.google.com/file/d/1wMLT_k5oQ5Ek2_ICLQVrHcP4gq2LpHzl/view?usp=sharing
 ---
 
 ## 20. Known Limitations
